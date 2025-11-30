@@ -1,0 +1,10 @@
+typer[all]==0.9.0
+transformers>=4.35.0
+datasets>=2.10.0
+peft>=0.8.2
+accelerate>=0.20.3
+sentencepiece
+torch>=1.12.0
+safetensors
+
+rich~=13.9.4
